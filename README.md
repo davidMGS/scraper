@@ -1,6 +1,6 @@
 # Install scrapy
 - See http://scrapy.org/
-`pip install scrapy`
+- `pip install scrapy`
 
 # run script
 `bash scrape.sh`
